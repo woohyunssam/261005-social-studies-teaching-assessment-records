@@ -20,6 +20,7 @@ import {
   X,
 } from "lucide-react";
 import "./inquiry.css";
+import "./stitch-inquiry-theme.css";
 
 const elements = [
   {
